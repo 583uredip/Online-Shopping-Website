@@ -1,4 +1,4 @@
-# Online-Shopping-Wedsite
+# Online-Shopping-Website
 ------------------------------
 **Where Style Meets Savings!** Enjoy your shopping experience with Pflegen, your ultimate destination for trendy and comfortable clothing.
 
